@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1495217003 source:c:\users\user\desktop\project#2 theug\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1495217605 source:c:\users\asus\desktop\project#2 theug\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1495217605 source:c:\users\asus\desktop\projeler\boþ proje\project#2 theug\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1495221205 source:c:\users\judastheug\desktop\projeler\boþ proje\project#2 theug\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
